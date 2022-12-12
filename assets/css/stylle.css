@@ -1,0 +1,42 @@
+.contai{
+    max-width: 400px;
+    margin: auto;
+    text-align: center;
+    color: #2b2b57;
+}
+
+.titul{
+    background: #b4bfff;
+    font-size: 35px;
+    transform: rotate(-1deg);
+}
+
+.titul h1{
+    transform: rotate(1deg);
+}
+
+.fechas{
+    font-weight: bold;
+}
+
+.intro{
+    font-size: 18px;
+    font-style: italic;
+    line-height: 30px;
+}
+
+.descu{
+    background: #5ee7ff;
+    font-size: 35px;
+    padding: 15px;
+    color: white;
+}
+
+.fila{
+    display: flex;
+    margin: 30px 0;
+}
+
+.fila .texto{
+background-color: #d5f2fb;
+}

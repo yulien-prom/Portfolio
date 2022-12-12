@@ -1,0 +1,235 @@
+::selection {
+}
+
+* {
+    box-sizing: border-box;
+}
+user agent stylesheet
+div {
+    display: block;
+}
+
+element.style {
+}
+@media only screen and (max-width: 1023px)
+#InfographicContainer {
+}
+
+#InfographicContainer {
+    position: relative;
+}
+@media only screen and (max-width: 1023px)
+#InfographicContainer {
+}
+#InfographicContainer {
+    position: relative;
+}
+@media only screen and (max-width: 1023px)
+#InfographicContainer {
+}
+#InfographicContainer {
+    position: relative;
+}
+.Flex {
+    display: flex;
+    margin: 0;
+    margin-top: 0px;
+    margin-right: 0px;
+    margin-bottom: 0px;
+    margin-left: 0px;
+    padding: 0;
+    padding-top: 0px;
+    padding-right: 0px;
+    padding-bottom: 0px;
+    padding-left: 0px;
+    list-style: none;
+    list-style-position: initial;
+    list-style-image: initial;
+    list-style-type: none;
+    flex-wrap: wrap;
+}
+
+@media only screen and (max-width: 1024px)
+.FlexCell.Cell-2, .FlexCell.Cell-3, .FlexCell.Cell-4, .FlexCell.Cell-5, .FlexCell.Cell-6, .FlexCell.Cell-7 {
+    flex: 0 0 100%;
+    flex-grow: 0;
+    flex-shrink: 0;
+    flex-basis: 100%;
+}
+
+.FlexCell.Cell-2 {
+    flex: 2;
+    flex-grow: 2;
+    flex-shrink: 1;
+    flex-basis: 0%;
+}
+@media only screen and (max-width: 1023px)
+.FlexCell {
+    display: block;
+}
+@media only screen and (max-width: 1024px)
+.FlexCell {
+    flex: 0 0 100%;
+    flex-grow: 0;
+    flex-shrink: 0;
+    flex-basis: 100%;
+}
+.FlexCell {
+    flex: 1;
+    flex-grow: 1;
+    flex-shrink: 1;
+    flex-basis: 0%;
+}
+.TextCenter {
+    text-align: center;
+}
+
+@media only screen and (max-width: 1023px)
+#InfographicContainer svg {
+    height: auto;
+}
+#InfographicContainer svg {
+    max-width: 100%;
+}
+@media only screen and (max-width: 1023px)
+#InfographicContainer svg {
+    height: auto;
+}
+#InfographicContainer svg {
+    max-width: 100%;
+}
+@media only screen and (max-width: 1023px)
+#InfographicContainer svg {
+    height: auto;
+}
+#InfographicContainer svg {
+    max-width: 100%;
+}
+svg:not(:root) {
+    overflow: hidden;
+    overflow-x: hidden;
+    overflow-y: hidden;
+}
+
+line[Attributes Style] {
+    fill: none;
+    stroke: rgb(51, 51, 51);
+    stroke-width: 6;
+    stroke-miterlimit: 10;
+}
+user agent stylesheet
+:not(svg) {
+    transform-origin: 0px 0px;
+}
+.TextCenter {
+    text-align: center;
+}
+.Flex {
+    display: flex;
+    margin: 0;
+    padding: 0;
+    list-style: none;
+    list-style-position: initial;
+    list-style-image: initial;
+    list-style-type: none;
+    flex-wrap: wrap;
+}
+
+
+polygon[Attributes Style] {
+    fill: rgb(51, 51, 51);
+}
+user agent stylesheet
+:not(svg) {
+    transform-origin: 0px 0px;
+}
+
+#HowWeWorkInfographic text {
+    font-family: "proxima-nova", sans-serif;
+    font-weight: 800;
+}
+
+@media only screen and (max-width: 1023px)
+#HowWeWorkInfographic text {
+    font-size: 18px;
+}
+
+text[Attributes Style] {
+    font-size: 14;
+    transform: matrix(1, 0, 0, 1, 248.119, 77.8408);
+}
+
+rect[Attributes Style] {
+    x: 240;
+    y: 30;
+    fill: transparent;
+    width: 195;
+    height: 95;
+}
+
+path[Attributes Style] {
+    fill: rgb(51, 51, 51);
+    d: path("M 363.771 101.505 c 15.621 15.621 40.948 15.621 56.569 0 s 15.621 -40.948 0 -56.569 s -40.948 -15.621 -56.569 0 C 348.149 60.557 348.149 85.884 363.771 101.505");
+}
+
+path[Attributes Style] {
+    fill: rgb(255, 255, 255);
+    d: path("M 410.159 75.722 v 15.917 h -39.308 V 70.494 h 24.733 c 0.083 -0.204 0.173 -0.413 0.28 -0.641 l 0.799 -1.984 h -28.437 v 26.395 h 44.558 V 69.203 l -2.615 6.496 C 410.166 75.707 410.163 75.714 410.159 75.722");
+}
+
+path[Attributes Style] {
+    fill: rgb(255, 255, 255);
+    d: path("M 398.997 83.657 c -0.165 0 -0.326 -0.03 -0.48 -0.093 c -0.658 -0.265 -0.979 -1.015 -0.715 -1.674 l 0.801 -1.988 c 0.017 -0.042 0.021 -0.085 0.013 -0.127 l -1.371 -7.182 c 0.14 -0.58 0.302 -1.018 0.603 -1.648 l 5.218 -12.955 c 0.022 -0.055 0.022 -0.117 -0.001 -0.172 c -0.024 -0.055 -0.068 -0.098 -0.123 -0.121 l -1.992 -0.8 c -0.028 -0.011 -0.056 -0.016 -0.084 -0.016 c -0.089 0 -0.174 0.053 -0.209 0.14 l -1.834 4.552 c -0.193 0.479 -0.681 0.8 -1.214 0.8 c -0.16 0 -0.315 -0.029 -0.461 -0.088 c -0.317 -0.127 -0.567 -0.372 -0.703 -0.689 c -0.134 -0.315 -0.137 -0.665 -0.008 -0.984 l 3.545 -8.796 c 0.193 -0.48 0.679 -0.801 1.21 -0.801 c 0.16 0 0.316 0.029 0.464 0.088 c 0.657 0.265 0.977 1.016 0.712 1.674 l -0.581 1.44 c -0.022 0.055 -0.022 0.117 0.002 0.173 c 0.023 0.054 0.068 0.097 0.123 0.12 l 1.991 0.8 c 0.027 0.011 0.056 0.016 0.084 0.016 c 0.089 0 0.173 -0.053 0.209 -0.141 l 1.234 -3.069 c 0.675 -1.677 2.285 -2.761 4.102 -2.761 c 0.562 0 1.112 0.107 1.635 0.317 l 1.952 0.786 c 1.089 0.437 1.943 1.277 2.406 2.364 c 0.463 1.087 0.477 2.285 0.039 3.372 l -7.58 18.834 c -0.213 0.486 -0.433 0.973 -0.73 1.521 l -0.052 0.049 l -6.149 4.217 c -0.036 0.025 -0.064 0.06 -0.081 0.101 l -0.781 1.934 C 399.992 83.341 399.523 83.657 398.997 83.657 M 400.462 74.138 c -0.051 0 -0.101 0.018 -0.142 0.051 c -0.063 0.051 -0.094 0.133 -0.079 0.214 l 0.558 3.133 c 0.013 0.075 0.064 0.138 0.134 0.168 c 0.028 0.012 0.058 0.017 0.087 0.017 c 0.045 0 0.09 -0.014 0.128 -0.04 l 2.649 -1.844 c 0.068 -0.047 0.105 -0.128 0.095 -0.21 c -0.008 -0.082 -0.063 -0.153 -0.139 -0.184 l -3.207 -1.289 C 400.519 74.144 400.49 74.138 400.462 74.138 M 405.662 58.809 c -0.09 0 -0.174 0.054 -0.209 0.142 l -4.906 12.186 c -0.022 0.056 -0.022 0.118 0.001 0.173 c 0.024 0.055 0.068 0.098 0.123 0.12 l 4.944 1.99 c 0.028 0.01 0.056 0.016 0.084 0.016 c 0.09 0 0.174 -0.054 0.209 -0.142 l 4.906 -12.186 c 0.022 -0.056 0.022 -0.118 -0.002 -0.173 c -0.023 -0.054 -0.068 -0.098 -0.123 -0.12 l -4.943 -1.99 C 405.718 58.815 405.69 58.809 405.662 58.809 M 409.551 51.934 c -0.75 0 -1.463 0.47 -1.734 1.145 l -1.235 3.068 c -0.046 0.114 0.01 0.246 0.125 0.292 l 4.942 1.989 c 0.028 0.011 0.056 0.016 0.084 0.016 c 0.089 0 0.173 -0.053 0.209 -0.141 l 1.236 -3.068 c 0.18 -0.449 0.174 -0.947 -0.02 -1.404 c -0.194 -0.454 -0.548 -0.803 -0.998 -0.985 l -1.953 -0.786 C 409.999 51.977 409.779 51.934 409.551 51.934");
+}
+
+path[Attributes Style] {
+    fill: rgb(255, 255, 255);
+    d: path("M 391.26 76.808 h -15.751 c -0.724 0 -1.312 -0.587 -1.312 -1.312 s 0.588 -1.313 1.312 -1.313 h 15.751 c 0.725 0 1.312 0.588 1.312 1.313 S 391.985 76.808 391.26 76.808");
+}
+path[Attributes Style] {
+    fill: rgb(255, 255, 255);
+    d: path("M 391.26 82.046 h -15.751 c -0.724 0 -1.312 -0.588 -1.312 -1.312 c 0 -0.726 0.588 -1.313 1.312 -1.313 h 15.751 c 0.725 0 1.312 0.587 1.312 1.313 C 392.572 81.458 391.985 82.046 391.26 82.046");
+}
+
+path[Attributes Style] {
+    fill: rgb(255, 255, 255);
+    d: path("M 403.735 88.417 h -10.104 c -0.725 0 -1.312 -0.588 -1.312 -1.312 c 0 -0.725 0.587 -1.313 1.312 -1.313 h 10.104 c 0.725 0 1.312 0.588 1.312 1.313 C 405.047 87.83 404.46 88.417 403.735 88.417");
+}
+
+line[Attributes Style] {
+    fill: none;
+    stroke: rgb(51, 51, 51);
+    stroke-width: 2;
+    stroke-miterlimit: 10;
+}
+
+@media only screen and (max-width: 1023px)
+#HowWeWorkInfoGraphicText {
+    height: 100%;
+    position: absolute;
+    left: 0;
+    width: 100%;
+    display: none;
+    background: rgba(0, 177, 121, 0.95);
+    background-image: initial;
+    background-position-x: initial;
+    background-position-y: initial;
+    background-size: initial;
+    background-repeat-x: initial;
+    background-repeat-y: initial;
+    background-attachment: initial;
+    background-origin: initial;
+    background-clip: initial;
+    background-color: rgba(0, 177, 121, 0.95);
+}
+
+.GreenBkg {
+    background: #0067b199;
+    color: #333333;
+}
+
+@media only screen and (max-width: 1024px)
+.DesktopOnly {
+    display: none !important;
+}
+
